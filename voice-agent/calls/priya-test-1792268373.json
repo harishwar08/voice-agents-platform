@@ -1,0 +1,104 @@
+{
+  "room": "priya-test-1792268373",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 46755,
+  "median_gap_secs": 0.932,
+  "median_hidden_secs": 0.0,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 11.5,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 14.7,
+      "text": "ఆ అండి.",
+      "end_of_turn_delay": 0.302,
+      "transcription_delay": 0.169
+    },
+    {
+      "role": "user",
+      "at": 15.6,
+      "text": "ఇది.",
+      "end_of_turn_delay": 0.305,
+      "transcription_delay": 0.125
+    },
+    {
+      "role": "assistant",
+      "at": 18.5,
+      "text": "Sure andi,",
+      "llm_node_ttft": 0.466,
+      "tts_node_ttfb": 0.119,
+      "e2e_latency": 0.969,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 18.6,
+      "text": "store available open అవ్వనయ్యా కదా.",
+      "end_of_turn_delay": 0.304,
+      "transcription_delay": 0.166
+    },
+    {
+      "role": "assistant",
+      "at": 38.1,
+      "text": "Okay andi, Skyline Mobiles stores are open from 10:00 AM to 9:30 PM, Monday to Saturday. Ameerpet, Kukatpally, and Dilsukhnagar stores close by 8:00 PM on Sundays, while Gachibowli is open until 10:00 PM all seven days. Which store would you like to visit?",
+      "llm_node_ttft": 0.495,
+      "tts_node_ttfb": 0.105,
+      "e2e_latency": 0.913,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 41.5,
+      "text": "ఆ.",
+      "end_of_turn_delay": 0.311,
+      "transcription_delay": 0.172
+    },
+    {
+      "role": "assistant",
+      "at": 42.5,
+      "text": "Sure",
+      "llm_node_ttft": 0.669,
+      "tts_node_ttfb": 0.105,
+      "e2e_latency": 0.952,
+      "hidden_by_early_start": 0.133
+    },
+    {
+      "role": "user",
+      "at": 43.6,
+      "text": "Okay. పోదాం.",
+      "end_of_turn_delay": 0.311,
+      "transcription_delay": 0.206
+    },
+    {
+      "role": "user",
+      "at": 45.6,
+      "text": "ఏమో తెలియదు.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.175
+    },
+    {
+      "role": "user",
+      "at": 47.7,
+      "text": "చిన్న ఇంకోటి కోసం call చేశాను.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.159
+    },
+    {
+      "role": "assistant",
+      "at": 50.7,
+      "text": "Sure andi, inka em details kavali?",
+      "llm_node_ttft": 0.466,
+      "tts_node_ttfb": 0.108,
+      "e2e_latency": 0.879,
+      "hidden_by_early_start": 0.0
+    }
+  ]
+}

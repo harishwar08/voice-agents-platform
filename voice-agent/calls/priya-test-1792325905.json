@@ -1,0 +1,167 @@
+{
+  "room": "priya-test-1792325905",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4799,
+  "median_gap_secs": 0.726,
+  "median_hidden_secs": 0.075,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 11.7,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 14.7,
+      "text": "Hi అండి.",
+      "end_of_turn_delay": 0.31,
+      "transcription_delay": 0.174
+    },
+    {
+      "role": "user",
+      "at": 15.7,
+      "text": "ఇది.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.164
+    },
+    {
+      "role": "user",
+      "at": 18.8,
+      "text": "Enquiry కోసం call చేశాను. నేను store లో.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.146
+    },
+    {
+      "role": "user",
+      "at": 22.2,
+      "text": "ఐఫోన్. cases available ఉన్నాయి iPhone cases ఇంకా.",
+      "end_of_turn_delay": 0.312,
+      "transcription_delay": 0.255
+    },
+    {
+      "role": "user",
+      "at": 23.4,
+      "text": "iPhone 12.",
+      "end_of_turn_delay": 0.307,
+      "transcription_delay": 0.156
+    },
+    {
+      "role": "assistant",
+      "at": 32.3,
+      "text": "Sure andi, iPhone twelve ki mana store lo chala rarakala cases unnay, meeku transparent case kavala leka design case kavala?",
+      "llm_node_ttft": 0.401,
+      "tts_node_ttfb": 0.118,
+      "e2e_latency": 0.987,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 33.0,
+      "text": "ఆ."
+    },
+    {
+      "role": "assistant",
+      "at": 34.6,
+      "text": "Okay andi, matte",
+      "llm_node_ttft": 0.394,
+      "tts_node_ttfb": 0.153
+    },
+    {
+      "role": "user",
+      "at": 34.7,
+      "text": "ఓకే అండి.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.18
+    },
+    {
+      "role": "assistant",
+      "at": 38.7,
+      "text": "Sure andi, matte finish case",
+      "llm_node_ttft": 0.4,
+      "tts_node_ttfb": 0.119,
+      "e2e_latency": 1.016,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 40.1,
+      "text": "నేను. అవును.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 42.2,
+      "text": "Sure andi, matte finish case",
+      "llm_node_ttft": 0.354,
+      "tts_node_ttfb": 0.138,
+      "e2e_latency": 0.443,
+      "hidden_by_early_start": 0.349
+    },
+    {
+      "role": "user",
+      "at": 42.9,
+      "text": "Hello. అవును.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.147
+    },
+    {
+      "role": "assistant",
+      "at": 45.1,
+      "text": "Sure andi, matte finish",
+      "llm_node_ttft": 0.378,
+      "tts_node_ttfb": 0.159,
+      "e2e_latency": 0.688,
+      "hidden_by_early_start": 0.15
+    },
+    {
+      "role": "user",
+      "at": 45.2,
+      "text": "ఇది.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.22
+    },
+    {
+      "role": "assistant",
+      "at": 47.8,
+      "text": "Sure andi, mee phone model",
+      "llm_node_ttft": 0.34,
+      "tts_node_ttfb": 0.119,
+      "e2e_latency": 0.765,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 48.2,
+      "text": "చెప్పండి. ఆ.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 51.0,
+      "text": "Sure andi, mee phone model ento cheppandi?",
+      "llm_node_ttft": 0.357,
+      "tts_node_ttfb": 0.115,
+      "e2e_latency": 0.442,
+      "hidden_by_early_start": 0.331
+    },
+    {
+      "role": "user",
+      "at": 52.8,
+      "text": "ఆ."
+    },
+    {
+      "role": "assistant",
+      "at": 53.5,
+      "text": "Sure",
+      "llm_node_ttft": 0.437,
+      "tts_node_ttfb": 0.112
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "room": "priya-test-1792268219",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 46755,
+  "median_gap_secs": 0.832,
+  "median_hidden_secs": 0.106,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 12.7,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 16.0,
+      "text": "Hi.",
+      "end_of_turn_delay": 0.309,
+      "transcription_delay": 0.18
+    },
+    {
+      "role": "assistant",
+      "at": 18.4,
+      "text": "Hello andi, em details kavali?",
+      "llm_node_ttft": 0.637,
+      "tts_node_ttfb": 0.108,
+      "e2e_latency": 0.937,
+      "hidden_by_early_start": 0.117
+    },
+    {
+      "role": "user",
+      "at": 22.8,
+      "text": "ఆ నాకు.",
+      "end_of_turn_delay": 0.311,
+      "transcription_delay": 0.141
+    },
+    {
+      "role": "assistant",
+      "at": 25.3,
+      "text": "Sare andi, mee phone model",
+      "llm_node_ttft": 0.463,
+      "tts_node_ttfb": 0.109,
+      "e2e_latency": 0.717,
+      "hidden_by_early_start": 0.166
+    },
+    {
+      "role": "user",
+      "at": 25.5,
+      "text": "నాకు iPhone change చేయాలి.",
+      "end_of_turn_delay": 0.31,
+      "transcription_delay": 0.102
+    },
+    {
+      "role": "user",
+      "at": 27.9,
+      "text": "cases నాలుగు ఉన్నాయి అండి.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.223
+    },
+    {
+      "role": "assistant",
+      "at": 32.5,
+      "text": "Okay andi, iPhone fifteen case kavala, leka inka vere model a?",
+      "llm_node_ttft": 0.482,
+      "tts_node_ttfb": 0.105,
+      "e2e_latency": 0.901,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 36.6,
+      "text": "సరే. సత్యన.",
+      "end_of_turn_delay": 0.313,
+      "transcription_delay": 0.214
+    },
+    {
+      "role": "assistant",
+      "at": 41.5,
+      "text": "Okay andi, meeru ఏ iPhone model case gurinchi aduguthunnaro cheppandi?",
+      "llm_node_ttft": 0.595,
+      "tts_node_ttfb": 0.105,
+      "e2e_latency": 0.92,
+      "hidden_by_early_start": 0.093
+    },
+    {
+      "role": "user",
+      "at": 45.5,
+      "text": "iPhone 17 Pro Max.",
+      "end_of_turn_delay": 0.309,
+      "transcription_delay": 0.103
+    },
+    {
+      "role": "assistant",
+      "at": 51.3,
+      "text": "Okay andi, iPhone seventeen Pro Max kosam normal protection case kavala, leka premium case kavala?",
+      "llm_node_ttft": 0.453,
+      "tts_node_ttfb": 0.1,
+      "e2e_latency": 0.661,
+      "hidden_by_early_start": 0.201
+    },
+    {
+      "role": "user",
+      "at": 54.7,
+      "text": "Premium నాది.",
+      "end_of_turn_delay": 0.312,
+      "transcription_delay": 0.213
+    },
+    {
+      "role": "assistant",
+      "at": 64.3,
+      "text": "Sure andi, iPhone seventeen Pro Max kosam Spigen Ultra Hybrid MagFit clear case one thousand four hundred ninety-nine rupees lo available undi andi.",
+      "llm_node_ttft": 0.444,
+      "tts_node_ttfb": 0.101,
+      "e2e_latency": 0.762,
+      "hidden_by_early_start": 0.095
+    },
+    {
+      "role": "user",
+      "at": 68.2,
+      "text": "ఓ. సరే.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.18
+    },
+    {
+      "role": "assistant",
+      "at": 69.4,
+      "text": "Sare andi,",
+      "llm_node_ttft": 0.463,
+      "tts_node_ttfb": 0.108,
+      "e2e_latency": 0.756,
+      "hidden_by_early_start": 0.116
+    },
+    {
+      "role": "user",
+      "at": 69.6,
+      "text": "ఉందా?",
+      "end_of_turn_delay": 0.314,
+      "transcription_delay": 0.115
+    },
+    {
+      "role": "user",
+      "at": 71.5,
+      "text": "delivery charges కట్టేయా?",
+      "end_of_turn_delay": 0.315,
+      "transcription_delay": 0.314
+    },
+    {
+      "role": "assistant",
+      "at": 77.3,
+      "text": "Zone one lo unte orders above ten thousand rupees ki free andi, meedi ఏ area andi?",
+      "llm_node_ttft": 0.463,
+      "tts_node_ttfb": 0.102,
+      "e2e_latency": 0.933,
+      "hidden_by_early_start": 0.0
+    }
+  ]
+}

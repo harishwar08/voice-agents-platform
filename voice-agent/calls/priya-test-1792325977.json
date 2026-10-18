@@ -1,0 +1,129 @@
+{
+  "room": "priya-test-1792325977",
+  "to": "+918639426564",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4799,
+  "median_gap_secs": 0.773,
+  "median_hidden_secs": 0.066,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 15.2,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 18.7,
+      "text": "యా ఇప్పుడు.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.246
+    },
+    {
+      "role": "user",
+      "at": 20.2,
+      "text": "ఏమున్నాయి?",
+      "end_of_turn_delay": 0.307,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 29.3,
+      "text": "Manaku chala stylish phone cases, MagSafe cases mariyu camera protectors unnai andi. Mee phone model cheppandi, edhi kavalo chuddam.",
+      "llm_node_ttft": 0.431,
+      "tts_node_ttfb": 0.115,
+      "e2e_latency": 0.93,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 33.9,
+      "text": "iPhone 17.",
+      "end_of_turn_delay": 0.399,
+      "transcription_delay": 0.397
+    },
+    {
+      "role": "assistant",
+      "at": 43.0,
+      "text": "Sure andi, iPhone seventeen ki manaku chala rarakala cases unnai. Meekje clear case kavala, leka matte finish case kavala?",
+      "llm_node_ttft": 0.401,
+      "tts_node_ttfb": 0.261,
+      "e2e_latency": 1.063,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 48.9,
+      "text": "ఆ. మళ్ళీ చెప్తారా అర్థం కాలేదు.",
+      "end_of_turn_delay": 0.314,
+      "transcription_delay": 0.193
+    },
+    {
+      "role": "assistant",
+      "at": 57.5,
+      "text": "Sare andi, iPhone seventeen ki manaku clear case, matte case mariyu MagSafe cases unnai. Meekhulo edhi kavali andi?",
+      "llm_node_ttft": 0.365,
+      "tts_node_ttfb": 0.131,
+      "e2e_latency": 0.693,
+      "hidden_by_early_start": 0.117
+    },
+    {
+      "role": "user",
+      "at": 60.4,
+      "text": "ఏ cases బాగుంటాయి?",
+      "end_of_turn_delay": 0.312,
+      "transcription_delay": 0.251
+    },
+    {
+      "role": "assistant",
+      "at": 67.7,
+      "text": "MagSafe cases chala baaguntai andi, phone ki full protection isthayi. Meekhu ee color lo kavali andi?",
+      "llm_node_ttft": 0.437,
+      "tts_node_ttfb": 0.125,
+      "e2e_latency": 0.82,
+      "hidden_by_early_start": 0.054
+    },
+    {
+      "role": "user",
+      "at": 72.7,
+      "text": "colors ఏ colors available ఉన్నాయి?",
+      "end_of_turn_delay": 0.307,
+      "transcription_delay": 0.222
+    },
+    {
+      "role": "assistant",
+      "at": 80.1,
+      "text": "Mana daggara black, blue, mariyu transparent colors unnai andi. Meekhulo ఏ color kavali?",
+      "llm_node_ttft": 0.373,
+      "tts_node_ttfb": 0.124,
+      "e2e_latency": 0.726,
+      "hidden_by_early_start": 0.078
+    },
+    {
+      "role": "user",
+      "at": 82.6,
+      "text": "transparent లో. Thank you. పోదు కదా?",
+      "end_of_turn_delay": 0.309,
+      "transcription_delay": 0.196
+    },
+    {
+      "role": "assistant",
+      "at": 91.0,
+      "text": "Sure andi, transparent case yellowish avvakunda chala quality ga untundi. Mee order confirm cheyatam kosam mee delivery address cheptara andi?",
+      "llm_node_ttft": 0.375,
+      "tts_node_ttfb": 0.147,
+      "e2e_latency": 0.722,
+      "hidden_by_early_start": 0.109
+    },
+    {
+      "role": "user",
+      "at": 93.8,
+      "text": "లేదండి నేను store కి వస్తాను.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.077
+    }
+  ]
+}

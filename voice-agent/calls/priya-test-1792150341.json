@@ -1,0 +1,97 @@
+{
+  "room": "priya-test-1792150341",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.12,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4803,
+  "median_gap_secs": 1.03,
+  "median_hidden_secs": 0.003,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 15.3,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 21.5,
+      "text": "మీరు ఎందుకు ఇంత మెల్లగా మాట్లాడుతారు?",
+      "end_of_turn_delay": 0.303,
+      "transcription_delay": 0.286
+    },
+    {
+      "role": "assistant",
+      "at": 27.3,
+      "text": "Ah, sorry andi! Tvaragane matladutanu, ippudu cheppandi meeku em kavali?",
+      "llm_node_ttft": 0.692,
+      "tts_node_ttfb": 0.154,
+      "e2e_latency": 1.143,
+      "hidden_by_early_start": 0.006
+    },
+    {
+      "role": "user",
+      "at": 31.4,
+      "text": "మీరు. రాశి మాట్లాడుతున్నావేంటి నువ్వు?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.071
+    },
+    {
+      "role": "user",
+      "at": 33.7,
+      "text": "సరే అని store open ఉందా ఇప్పుడు?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.205
+    },
+    {
+      "role": "assistant",
+      "at": 41.6,
+      "text": "Sare andi, store ippudu open undi. Meekhu daggarloni Husle Lifestyle store location kavala?",
+      "llm_node_ttft": 0.44,
+      "tts_node_ttfb": 0.171,
+      "e2e_latency": 0.918,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 49.3,
+      "text": "కాదు కాదు. నాకు just. Just. store enquiry కోసం call చేశాను. చేసుకున్నాను. అంటే.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.161
+    },
+    {
+      "role": "user",
+      "at": 53.6,
+      "text": "Total ఇప్పుడు actually. Actually. like chargers కానీ screen guards కానీ ఏమైనా?",
+      "end_of_turn_delay": 0.31,
+      "transcription_delay": 0.293
+    },
+    {
+      "role": "assistant",
+      "at": 63.7,
+      "text": "Sure andi, manam chargers, screen guards, inka chaala mobile accessories provide chestam. Meekhu particularly ఏ item kavali?",
+      "llm_node_ttft": 0.4,
+      "tts_node_ttfb": 0.166,
+      "e2e_latency": 0.867,
+      "hidden_by_early_start": 0.009
+    },
+    {
+      "role": "user",
+      "at": 65.1,
+      "text": "చెప్పు.",
+      "end_of_turn_delay": 7.61,
+      "transcription_delay": 7.607
+    },
+    {
+      "role": "assistant",
+      "at": 85.0,
+      "text": "Okay andi, manam fast chargers, wireless chargers, inka strong screen guards kuda provide chestam. Meekhu screen guard kavala leda charger kavala?",
+      "llm_node_ttft": 0.456,
+      "tts_node_ttfb": 0.189,
+      "e2e_latency": 14.731,
+      "hidden_by_early_start": 0.0
+    }
+  ]
+}

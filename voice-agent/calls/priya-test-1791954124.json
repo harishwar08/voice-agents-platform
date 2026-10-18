@@ -1,0 +1,91 @@
+{
+  "room": "priya-test-1791954124",
+  "to": "+918639426564",
+  "stt": "deepgram nova-3 te",
+  "llm": "gemini-2.5-flash @ asia-south1",
+  "silence_secs": 0.2,
+  "end_of_turn_secs": 0.3,
+  "median_gap_secs": 1.419,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 14.7,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 19.0,
+      "text": "Iphone 17 కేసు ఉందా అండి",
+      "end_of_turn_delay": 0.5,
+      "transcription_delay": 0.497
+    },
+    {
+      "role": "assistant",
+      "at": 24.8,
+      "text": "Umm, iPhone seventeen ki case kavala andi? Mee phone model cheppandi?",
+      "llm_node_ttft": 0.597,
+      "tts_node_ttfb": 0.162,
+      "e2e_latency": 1.366
+    },
+    {
+      "role": "user",
+      "at": 28.0,
+      "text": "iPhone sweventeen pro",
+      "end_of_turn_delay": 0.634,
+      "transcription_delay": 0.631
+    },
+    {
+      "role": "assistant",
+      "at": 33.5,
+      "text": "Okay andi, iPhone seventeen Pro ki cases unnai. Meeku ye color lo kavali?",
+      "llm_node_ttft": 0.589,
+      "tts_node_ttfb": 0.172,
+      "e2e_latency": 1.419
+    },
+    {
+      "role": "user",
+      "at": 36.4,
+      "text": "ఒక",
+      "end_of_turn_delay": 0.488,
+      "transcription_delay": 0.486
+    },
+    {
+      "role": "assistant",
+      "at": 42.3,
+      "text": "Okay andi, meeku normal protection case kavala, leka premium/design case kavala?",
+      "llm_node_ttft": 0.534,
+      "tts_node_ttfb": 0.18,
+      "e2e_latency": 1.375
+    },
+    {
+      "role": "user",
+      "at": 46.8,
+      "text": "premium కావాలనుకుంటున్నాను.",
+      "end_of_turn_delay": 0.389,
+      "transcription_delay": 0.385
+    },
+    {
+      "role": "assistant",
+      "at": 51.9,
+      "text": "Sare andi, premium cases lo meeku MagSafe support kavala?",
+      "llm_node_ttft": 0.738,
+      "tts_node_ttfb": 0.184,
+      "e2e_latency": 1.559
+    },
+    {
+      "role": "user",
+      "at": 55.2,
+      "text": "Maxes అప్పుడు",
+      "end_of_turn_delay": 0.594,
+      "transcription_delay": 0.591
+    },
+    {
+      "role": "assistant",
+      "at": 64.9,
+      "text": "Umm, MagSafe support kavali antunnaru. Clear case kavala, leka matte finish lo kavala?",
+      "llm_node_ttft": 0.597,
+      "tts_node_ttfb": 0.194,
+      "e2e_latency": 1.54
+    }
+  ]
+}

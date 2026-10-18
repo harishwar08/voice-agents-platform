@@ -1,0 +1,65 @@
+{
+  "room": "priya-test-1792305634",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 5161,
+  "median_gap_secs": 2.357,
+  "median_hidden_secs": 0.0,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 21.6,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 27.3,
+      "text": "Enquiry కోసం call చేస్తున్నాను.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.107
+    },
+    {
+      "role": "user",
+      "at": 29.1,
+      "text": "సోదోత్లో.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.192
+    },
+    {
+      "role": "user",
+      "at": 32.5,
+      "text": "ఏమేమి available ఉన్నాయి accessories iPhone కి?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.128
+    },
+    {
+      "role": "assistant",
+      "at": 39.6,
+      "text": "సరే అండి, మీకు iPhone కి ఏయే accessories కావాలి?",
+      "llm_node_ttft": 0.386,
+      "tts_node_ttfb": 1.391,
+      "e2e_latency": 3.011,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 39.8,
+      "text": "Hello.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.171
+    },
+    {
+      "role": "assistant",
+      "at": 56.0,
+      "text": "సరే అండి, మీకు screen protector లేదా camera lens protector కావాలా?",
+      "llm_node_ttft": 0.402,
+      "tts_node_ttfb": 0.63,
+      "e2e_latency": 1.702,
+      "hidden_by_early_start": 0.0
+    }
+  ]
+}

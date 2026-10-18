@@ -1,0 +1,152 @@
+{
+  "room": "priya-test-1791952668",
+  "to": "+918639426564",
+  "stt": "deepgram nova-3 te",
+  "llm": "gemini-2.5-flash @ asia-south1",
+  "silence_secs": 0.3,
+  "end_of_turn_secs": 0.3,
+  "median_gap_secs": 1.725,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 16.3,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?",
+      "tts_node_ttfb": 0.378
+    },
+    {
+      "role": "user",
+      "at": 21.7,
+      "text": "Iphone 17 కేస్ ఉందా అండి",
+      "end_of_turn_delay": 0.882,
+      "transcription_delay": 0.88
+    },
+    {
+      "role": "assistant",
+      "at": 28.8,
+      "text": "Umm, iPhone seventeen inka release avvaledhu andi. Meeru iPhone sixteen series gurinchi aduguthunnara?",
+      "llm_node_ttft": 1.64,
+      "tts_node_ttfb": 0.179,
+      "e2e_latency": 2.814
+    },
+    {
+      "role": "user",
+      "at": 32.2,
+      "text": "Fhone section quese ఉందా?",
+      "end_of_turn_delay": 0.488,
+      "transcription_delay": 0.485
+    },
+    {
+      "role": "assistant",
+      "at": 35.7,
+      "text": "Phone section case ante, em model kosam andi?",
+      "llm_node_ttft": 0.505,
+      "tts_node_ttfb": 0.18,
+      "e2e_latency": 1.416
+    },
+    {
+      "role": "user",
+      "at": 40.0,
+      "text": "16 pro",
+      "end_of_turn_delay": 0.88,
+      "transcription_delay": 0.878
+    },
+    {
+      "role": "assistant",
+      "at": 47.0,
+      "text": "Okay andi, iPhone sixteen Pro ki cases unnay. Em case kavali meeku, clear case ah, leka matte case ah?",
+      "llm_node_ttft": 0.471,
+      "tts_node_ttfb": 0.161,
+      "e2e_latency": 1.683
+    },
+    {
+      "role": "user",
+      "at": 53.0,
+      "text": "అంటే like ఇంకేమి cases అప్పుడు నాకు చెప్తారా అంటే నాకు తెలియదు.",
+      "end_of_turn_delay": 0.415,
+      "transcription_delay": 0.412
+    },
+    {
+      "role": "assistant",
+      "at": 58.3,
+      "text": "Sure andi, meeku normal protection case kavala, leka premium case kavala?",
+      "llm_node_ttft": 0.592,
+      "tts_node_ttfb": 0.185,
+      "e2e_latency": 1.502
+    },
+    {
+      "role": "user",
+      "at": 61.3,
+      "text": "సీఎంకేస్ కావాలి.",
+      "end_of_turn_delay": 0.959,
+      "transcription_delay": 0.957
+    },
+    {
+      "role": "assistant",
+      "at": 67.2,
+      "text": "Clear case lo meeku MagSafe kavala, leka normal clear case saripothundha?",
+      "llm_node_ttft": 0.595,
+      "tts_node_ttfb": 0.184,
+      "e2e_latency": 2.108
+    },
+    {
+      "role": "user",
+      "at": 71.0,
+      "text": "ఆ cases కాకుండా ఇంకేముంటాయి",
+      "end_of_turn_delay": 0.49,
+      "transcription_delay": 0.488
+    },
+    {
+      "role": "assistant",
+      "at": 79.1,
+      "text": "Clear cases kakunda, meeku silicone cases, leather finish cases, stand cases, inka matte finish cases kuda unnay andi.",
+      "llm_node_ttft": 0.429,
+      "tts_node_ttfb": 0.161,
+      "e2e_latency": 1.378
+    },
+    {
+      "role": "user",
+      "at": 83.4,
+      "text": "ఫోన్లు అయితే లేవా",
+      "end_of_turn_delay": 0.437,
+      "transcription_delay": 0.434
+    },
+    {
+      "role": "assistant",
+      "at": 89.1,
+      "text": "Sorry andi, nenu meeku clear ga ardham chesukolekapotunna. Oka sari malli chepthara?",
+      "llm_node_ttft": 0.962,
+      "tts_node_ttfb": 0.178,
+      "e2e_latency": 2.305
+    },
+    {
+      "role": "user",
+      "at": 93.5,
+      "text": "ఫోన్లు ఏం లేవండి",
+      "end_of_turn_delay": 0.474,
+      "transcription_delay": 0.472
+    },
+    {
+      "role": "assistant",
+      "at": 100.0,
+      "text": "Ledhu andi, Husle Lifestyle lo manam phone accessories matrame offer chestunnam. Phones levu.",
+      "llm_node_ttft": 0.603,
+      "tts_node_ttfb": 0.172,
+      "e2e_latency": 1.725
+    },
+    {
+      "role": "user",
+      "at": 104.2,
+      "text": "ఓకే అండి thank you.",
+      "end_of_turn_delay": 0.433,
+      "transcription_delay": 0.431
+    },
+    {
+      "role": "assistant",
+      "at": 109.2,
+      "text": "Thank you andi, Husle Lifestyle ki call chesinanduku.",
+      "llm_node_ttft": 1.026,
+      "tts_node_ttfb": 0.179,
+      "e2e_latency": 2.198
+    }
+  ]
+}

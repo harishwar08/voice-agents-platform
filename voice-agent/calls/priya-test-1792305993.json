@@ -1,0 +1,127 @@
+{
+  "room": "priya-test-1792305993",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4799,
+  "median_gap_secs": 1.346,
+  "median_hidden_secs": 0.0,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 18.2,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 21.2,
+      "text": "జీ.",
+      "end_of_turn_delay": 0.305,
+      "transcription_delay": 0.213
+    },
+    {
+      "role": "user",
+      "at": 23.7,
+      "text": "Year.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.096
+    },
+    {
+      "role": "user",
+      "at": 26.1,
+      "text": "earphone case కావాలి.",
+      "end_of_turn_delay": 0.302,
+      "transcription_delay": 0.079
+    },
+    {
+      "role": "assistant",
+      "at": 35.5,
+      "text": "Sure andi, mee phone model cheppandi?",
+      "llm_node_ttft": 0.372,
+      "tts_node_ttfb": 0.432,
+      "e2e_latency": 1.552,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 38.0,
+      "text": "అచ్చా. iPhone 18 Pro Max.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.176
+    },
+    {
+      "role": "assistant",
+      "at": 43.1,
+      "text": "Sare andi, iPhone fifteen Pro Max case kosam check chesthanu.",
+      "llm_node_ttft": 0.372,
+      "tts_node_ttfb": 0.519,
+      "e2e_latency": 1.071,
+      "hidden_by_early_start": 0.121
+    },
+    {
+      "role": "user",
+      "at": 47.5,
+      "text": "అవును.",
+      "end_of_turn_delay": 0.302,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 54.1,
+      "text": "Okay andi, meeku normal protection case kavala, leka premium/design case kavala?",
+      "llm_node_ttft": 0.348,
+      "tts_node_ttfb": 0.245,
+      "e2e_latency": 0.551,
+      "hidden_by_early_start": 0.344
+    },
+    {
+      "role": "user",
+      "at": 57.2,
+      "text": "Normal.",
+      "end_of_turn_delay": 0.506,
+      "transcription_delay": 0.504
+    },
+    {
+      "role": "assistant",
+      "at": 66.3,
+      "text": "Sure andi, one transparent normal case and one thousand four hundred ninety-nine rupees untundi.",
+      "llm_node_ttft": 0.377,
+      "tts_node_ttfb": 0.46,
+      "e2e_latency": 1.346,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 69.9,
+      "text": "మ్.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.091
+    },
+    {
+      "role": "user",
+      "at": 71.1,
+      "text": "ఇంకా.",
+      "end_of_turn_delay": 0.711,
+      "transcription_delay": 0.71
+    },
+    {
+      "role": "user",
+      "at": 73.4,
+      "text": "ఇంకా watches ఉన్నాయా?",
+      "end_of_turn_delay": 0.311,
+      "transcription_delay": 0.311
+    },
+    {
+      "role": "assistant",
+      "at": 83.6,
+      "text": "Sare andi, mana daggara smart watches kuda unnaayi, meeku ഏ model kavali?",
+      "llm_node_ttft": 0.38,
+      "tts_node_ttfb": 2.302,
+      "e2e_latency": 3.553,
+      "hidden_by_early_start": 0.0
+    }
+  ]
+}

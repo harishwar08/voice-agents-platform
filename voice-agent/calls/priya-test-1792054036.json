@@ -1,0 +1,216 @@
+{
+  "room": "priya-test-1792054036",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-2.5-flash @ asia-south1",
+  "silence_secs": 0.12,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4803,
+  "median_gap_secs": 1.087,
+  "median_hidden_secs": 0.0,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 16.0,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 19.8,
+      "text": "ఓర్ కి.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.179
+    },
+    {
+      "role": "assistant",
+      "at": 21.9,
+      "text": "Sure andi, mee phone",
+      "llm_node_ttft": 0.581,
+      "tts_node_ttfb": 0.108,
+      "e2e_latency": 1.02,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 22.0,
+      "text": "iPhone.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.156
+    },
+    {
+      "role": "user",
+      "at": 25.7,
+      "text": "iPhone 18 Pro Max cases ఉన్నాయా store లో?",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.183
+    },
+    {
+      "role": "assistant",
+      "at": 30.6,
+      "text": "Okay andi, iPhone eighteen Pro Max cases unnai. Meeku emi protection kavali?",
+      "llm_node_ttft": 0.621,
+      "tts_node_ttfb": 0.124,
+      "e2e_latency": 1.191,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 35.6,
+      "text": "నాకా? ఆ.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 40.1,
+      "text": "Sare andi, meeku normal protection case kavala, leka premium design case kavala?",
+      "llm_node_ttft": 0.55,
+      "tts_node_ttfb": 0.112,
+      "e2e_latency": 0.591,
+      "hidden_by_early_start": 0.371
+    },
+    {
+      "role": "user",
+      "at": 44.1,
+      "text": "Hello.",
+      "end_of_turn_delay": 0.302,
+      "transcription_delay": 0.158
+    },
+    {
+      "role": "assistant",
+      "at": 46.5,
+      "text": "Hello andi, cheppandi.",
+      "llm_node_ttft": 0.594,
+      "tts_node_ttfb": 0.121,
+      "e2e_latency": 1.165,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 51.0,
+      "text": "ఆ అదే normal cases కావాలి.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.187
+    },
+    {
+      "role": "user",
+      "at": 52.4,
+      "text": "ఆ.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "user",
+      "at": 56.4,
+      "text": "అంటే silicon cases ఉంటాయి కదా ఉన్న silicon cases.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.188
+    },
+    {
+      "role": "assistant",
+      "at": 62.3,
+      "text": "Sure andi, iPhone eighteen Pro Max ki silicone cases unnai. Meeku emi color kavali?",
+      "llm_node_ttft": 0.675,
+      "tts_node_ttfb": 0.128,
+      "e2e_latency": 1.206,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 67.1,
+      "text": "మ్. Black color లో available ఉన్నాయా?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.166
+    },
+    {
+      "role": "assistant",
+      "at": 70.3,
+      "text": "Avunu andi, black color lo available undi.",
+      "llm_node_ttft": 0.412,
+      "tts_node_ttfb": 0.115,
+      "e2e_latency": 0.91,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 74.7,
+      "text": "Okay. Okay. ఉమ్.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.157
+    },
+    {
+      "role": "assistant",
+      "at": 76.7,
+      "text": "Meeku inka emaina",
+      "llm_node_ttft": 0.601,
+      "tts_node_ttfb": 0.122,
+      "e2e_latency": 1.233,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 76.9,
+      "text": "ఇంకా.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.156
+    },
+    {
+      "role": "assistant",
+      "at": 79.2,
+      "text": "vere colors kavala andi?",
+      "llm_node_ttft": 0.434,
+      "tts_node_ttfb": 0.113,
+      "e2e_latency": 1.087,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 85.0,
+      "text": "ఆ. వేరే colors-ఆ ఇప్పుడు charges ఏమైనా available ఉన్నాయా?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.142
+    },
+    {
+      "role": "assistant",
+      "at": 88.7,
+      "text": "Ledu andi, ippudu case gurinchi matladutunnam kada.",
+      "llm_node_ttft": 0.7,
+      "tts_node_ttfb": 0.144,
+      "e2e_latency": 1.208,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 94.3,
+      "text": "ఆ కాక chargers available ఉన్నాయా ఏమన్నా అంటున్నా.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.163
+    },
+    {
+      "role": "assistant",
+      "at": 99.6,
+      "text": "Oh, sare andi. Chargers kuda available unnai. Meekendi phone model?",
+      "llm_node_ttft": 0.298,
+      "tts_node_ttfb": 0.113,
+      "e2e_latency": 0.785,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 103.5,
+      "text": "Okay thanks.",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.01
+    },
+    {
+      "role": "assistant",
+      "at": 106.2,
+      "text": "Meeku inka emaina help kavala andi?",
+      "llm_node_ttft": 0.481,
+      "tts_node_ttfb": 0.127,
+      "e2e_latency": 0.826,
+      "hidden_by_early_start": 0.082
+    }
+  ]
+}

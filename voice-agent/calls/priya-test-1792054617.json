@@ -1,0 +1,131 @@
+{
+  "room": "priya-test-1792054617",
+  "to": "+918639426564",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.12,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 4803,
+  "median_gap_secs": 0.74,
+  "median_hidden_secs": 0.12,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 11.5,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 15.5,
+      "text": "phone calls కోసం call చేశానా?",
+      "end_of_turn_delay": 0.306,
+      "transcription_delay": 0.17
+    },
+    {
+      "role": "assistant",
+      "at": 21.3,
+      "text": "Sare andi, Husle Lifestyle lo phone cases and accessories kosam chustunnara?",
+      "llm_node_ttft": 0.691,
+      "tts_node_ttfb": 0.127,
+      "e2e_latency": 1.004,
+      "hidden_by_early_start": 0.12
+    },
+    {
+      "role": "user",
+      "at": 23.4,
+      "text": "అవును.",
+      "end_of_turn_delay": 0.31,
+      "transcription_delay": 0.273
+    },
+    {
+      "role": "assistant",
+      "at": 26.2,
+      "text": "Sure andi, mee phone model cheppandi?",
+      "llm_node_ttft": 0.416,
+      "tts_node_ttfb": 0.109,
+      "e2e_latency": 0.805,
+      "hidden_by_early_start": 0.03
+    },
+    {
+      "role": "user",
+      "at": 28.8,
+      "text": "Seventeen Pro.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.164
+    },
+    {
+      "role": "assistant",
+      "at": 33.9,
+      "text": "Okay andi, iPhone seventeen Pro ki meeku normal case kavala, leka MagSafe case kavala?",
+      "llm_node_ttft": 0.395,
+      "tts_node_ttfb": 0.112,
+      "e2e_latency": 0.675,
+      "hidden_by_early_start": 0.133
+    },
+    {
+      "role": "user",
+      "at": 37.5,
+      "text": "normal case కి difference ఏంటి?",
+      "end_of_turn_delay": 0.304,
+      "transcription_delay": 0.159
+    },
+    {
+      "role": "assistant",
+      "at": 41.7,
+      "text": "Normal case ante simple protection and lightweight finish untundi andi.",
+      "llm_node_ttft": 0.42,
+      "tts_node_ttfb": 0.121,
+      "e2e_latency": 0.754,
+      "hidden_by_early_start": 0.091
+    },
+    {
+      "role": "user",
+      "at": 43.7,
+      "text": "ఏం బాగుంటది అంటావు?",
+      "end_of_turn_delay": 0.304,
+      "transcription_delay": 0.179
+    },
+    {
+      "role": "assistant",
+      "at": 49.3,
+      "text": "Sare andi, meeku daily use ki light weight matte finish case chala baguntundi.",
+      "llm_node_ttft": 0.429,
+      "tts_node_ttfb": 0.119,
+      "e2e_latency": 0.74,
+      "hidden_by_early_start": 0.112
+    },
+    {
+      "role": "user",
+      "at": 53.8,
+      "text": "అర్థం కాలేదు మళ్ళీ.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.165
+    },
+    {
+      "role": "assistant",
+      "at": 58.2,
+      "text": "Matte finish case simple ga untundi andi, fingerprints padakunda protect chestundi.",
+      "llm_node_ttft": 0.407,
+      "tts_node_ttfb": 0.11,
+      "e2e_latency": 0.687,
+      "hidden_by_early_start": 0.131
+    },
+    {
+      "role": "user",
+      "at": 60.8,
+      "text": "Okay discount ఏమైనా ఉందా?",
+      "end_of_turn_delay": 0.311,
+      "transcription_delay": 0.165
+    },
+    {
+      "role": "assistant",
+      "at": 66.2,
+      "text": "Sure andi, manaku ippudu site lo special combo offers nadustunnayi.",
+      "llm_node_ttft": 0.404,
+      "tts_node_ttfb": 0.116,
+      "e2e_latency": 0.689,
+      "hidden_by_early_start": 0.142
+    }
+  ]
+}

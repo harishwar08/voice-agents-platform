@@ -1,0 +1,13 @@
+{
+  "room": "priya-test-1792257150",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.12,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 46755,
+  "median_gap_secs": null,
+  "median_hidden_secs": null,
+  "turns": []
+}

@@ -1,0 +1,83 @@
+{
+  "room": "priya-test-1792295849",
+  "to": "+918639426564",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 46755,
+  "median_gap_secs": 0.942,
+  "median_hidden_secs": 0.066,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 13.2,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 18.3,
+      "text": "Store ఇప్పుడు available ఉందండి.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.196
+    },
+    {
+      "role": "assistant",
+      "at": 22.8,
+      "text": "Sare andi, meeru ఏ branch ki raalani chustunnaro cheppandi?",
+      "llm_node_ttft": 0.681,
+      "tts_node_ttfb": 0.109,
+      "e2e_latency": 1.002,
+      "hidden_by_early_start": 0.089
+    },
+    {
+      "role": "user",
+      "at": 27.8,
+      "text": "ఇప్పుడు నేను ఇక్కడ. అంటే ఇప్పుడు phones ఉన్నాయా?",
+      "end_of_turn_delay": 0.3,
+      "transcription_delay": 0.175
+    },
+    {
+      "role": "assistant",
+      "at": 40.4,
+      "text": "Okay andi, manam Apple, Samsung, OnePlus, Xiaomi, Vivo, Oppo, Realme, mariyu Motorola phones stock lo unnamu. Mee kosam ఏ phone model chudamandi?",
+      "llm_node_ttft": 0.475,
+      "tts_node_ttfb": 0.109,
+      "e2e_latency": 0.766,
+      "hidden_by_early_start": 0.118
+    },
+    {
+      "role": "user",
+      "at": 43.4,
+      "text": "iPhone.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.217
+    },
+    {
+      "role": "assistant",
+      "at": 49.6,
+      "text": "Sure andi, iPhone fifteen kavala, leka inka vere model kavala?",
+      "llm_node_ttft": 0.603,
+      "tts_node_ttfb": 0.113,
+      "e2e_latency": 1.135,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 54.8,
+      "text": "iPhone అంటే 17 లేదా?",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.252
+    },
+    {
+      "role": "assistant",
+      "at": 66.6,
+      "text": "Okay andi, iPhone seventeen series lo iPhone seventeen Pro Max, iPhone seventeen Pro, mariyu iPhone seventeen unnavi. Mee kosam a particular variant check cheyamandi?",
+      "llm_node_ttft": 0.516,
+      "tts_node_ttfb": 0.108,
+      "e2e_latency": 0.882,
+      "hidden_by_early_start": 0.043
+    }
+  ]
+}

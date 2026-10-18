@@ -1,0 +1,19 @@
+{
+  "room": "priya-test-1792305581",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 5161,
+  "median_gap_secs": null,
+  "median_hidden_secs": null,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 37.0,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    }
+  ]
+}

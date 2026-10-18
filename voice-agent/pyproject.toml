@@ -1,0 +1,15 @@
+# Rebuilt from uv.lock, whose root entry pins these three requirements exactly.
+# A virtual project: uv.lock records `source = { virtual = "." }`, so nothing here is built or
+# installed as a package -- agent.py and make_call.py are run straight out of this folder.
+[project]
+name = "voice-agent"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "livekit-agents[cartesia,deepgram,google,sarvam,silero]>=1.5",
+    "livekit-api>=1.1",
+    "python-dotenv>=1.2.4",
+]
+
+[tool.uv]
+package = false

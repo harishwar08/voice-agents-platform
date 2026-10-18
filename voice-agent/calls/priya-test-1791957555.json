@@ -1,0 +1,165 @@
+{
+  "room": "priya-test-1791957555",
+  "to": "+918639426564",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-2.5-flash @ asia-south1",
+  "silence_secs": 0.2,
+  "end_of_turn_secs": 0.3,
+  "median_gap_secs": 1.0,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 11.4,
+      "text": "Hello andi, welcome to Husle Lifestyle. Cheppandi?"
+    },
+    {
+      "role": "user",
+      "at": 14.6,
+      "text": "యా నేను.",
+      "end_of_turn_delay": 0.299,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "user",
+      "at": 17.7,
+      "text": "ఇప్పుడు store-లో. store లో iPhone 17 Pro ఉందా?",
+      "end_of_turn_delay": 0.295,
+      "transcription_delay": 0.24
+    },
+    {
+      "role": "user",
+      "at": 18.5,
+      "text": "కేస్.",
+      "end_of_turn_delay": 0.273,
+      "transcription_delay": 0.177
+    },
+    {
+      "role": "assistant",
+      "at": 22.5,
+      "text": "Umm, sare andi. Mee phone model cheppandi?",
+      "llm_node_ttft": 0.569,
+      "tts_node_ttfb": 0.176,
+      "e2e_latency": 1.339
+    },
+    {
+      "role": "user",
+      "at": 24.9,
+      "text": "iPhone 17.",
+      "end_of_turn_delay": 0.296,
+      "transcription_delay": 0.201
+    },
+    {
+      "role": "assistant",
+      "at": 32.7,
+      "text": "Okay andi, iPhone seventeen Pro ki case kavali antunnaru. Ee model ki cases unnai. Meeku emi type case kavali?",
+      "llm_node_ttft": 0.481,
+      "tts_node_ttfb": 0.171,
+      "e2e_latency": 0.992
+    },
+    {
+      "role": "user",
+      "at": 34.6,
+      "text": "Pro Max.",
+      "end_of_turn_delay": 0.298,
+      "transcription_delay": 0.196
+    },
+    {
+      "role": "assistant",
+      "at": 42.2,
+      "text": "Sare andi, iPhone seventeen Pro Max ki cases unnai. Meeku clear case kavala, leka matte finish case kavala?",
+      "llm_node_ttft": 0.566,
+      "tts_node_ttfb": 0.164,
+      "e2e_latency": 1.01
+    },
+    {
+      "role": "user",
+      "at": 44.8,
+      "text": "Clear case కావాలి.",
+      "end_of_turn_delay": 0.303,
+      "transcription_delay": 0.287
+    },
+    {
+      "role": "assistant",
+      "at": 52.2,
+      "text": "Okay andi, clear case available undi. Meeku MagSafe support tho kavala, leka normal clear case saripothunda?",
+      "llm_node_ttft": 0.54,
+      "tts_node_ttfb": 0.162,
+      "e2e_latency": 1.0
+    },
+    {
+      "role": "user",
+      "at": 53.6,
+      "text": "Normal గా ఉంది.",
+      "end_of_turn_delay": 0.297,
+      "transcription_delay": 0.2
+    },
+    {
+      "role": "assistant",
+      "at": 63.5,
+      "text": "Sare andi, normal clear case available undi. Adi one thousand four hundred ninety-nine rupees. Meeku ee case order cheyyalantara?",
+      "llm_node_ttft": 0.527,
+      "tts_node_ttfb": 0.179,
+      "e2e_latency": 0.986
+    },
+    {
+      "role": "user",
+      "at": 64.8,
+      "text": "discount ఏం లేదా?",
+      "end_of_turn_delay": 0.293,
+      "transcription_delay": 0.231
+    },
+    {
+      "role": "assistant",
+      "at": 69.4,
+      "text": "Umm, discount ippudu emi ledu andi. Kaani, quality chala baguntundi.",
+      "llm_node_ttft": 0.503,
+      "tts_node_ttfb": 0.17,
+      "e2e_latency": 1.045
+    },
+    {
+      "role": "user",
+      "at": 72.3,
+      "text": "చూడండి discount.",
+      "end_of_turn_delay": 0.286,
+      "transcription_delay": 0.264
+    },
+    {
+      "role": "assistant",
+      "at": 78.8,
+      "text": "Sare andi, nenu team tho confirm chesi meeku chepthanu. Oka five minutes lo",
+      "llm_node_ttft": 0.763,
+      "tts_node_ttfb": 0.154,
+      "e2e_latency": 1.362
+    },
+    {
+      "role": "user",
+      "at": 83.4,
+      "text": "కింద తెండి. ఏ. నేను. discount మీ side నుంచి call చేస్తున్నందుకు discount ఏమైనా.",
+      "end_of_turn_delay": 0.295,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 90.7,
+      "text": "Umm, sare andi. Nenu team tho matladi, meeku emaina discount ivvadaniki try chesthanu. Meeku call chesthanu.",
+      "llm_node_ttft": 0.601,
+      "tts_node_ttfb": 0.179,
+      "e2e_latency": 0.628
+    },
+    {
+      "role": "user",
+      "at": 93.8,
+      "text": "Bye.",
+      "end_of_turn_delay": 0.289,
+      "transcription_delay": 0.194
+    },
+    {
+      "role": "assistant",
+      "at": 95.6,
+      "text": "Bye andi.",
+      "llm_node_ttft": 0.454,
+      "tts_node_ttfb": 0.188,
+      "e2e_latency": 0.915
+    }
+  ]
+}

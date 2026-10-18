@@ -1,0 +1,79 @@
+{
+  "room": "priya-test-1792268460",
+  "to": "+918074562571",
+  "stt": "sarvam saaras:v4 high-vad",
+  "llm": "gemini-3.5-flash-lite @ asia-south1",
+  "silence_secs": 0.05,
+  "end_of_turn_secs": 0.3,
+  "history_turns": 8,
+  "script_chars": 46755,
+  "median_gap_secs": 0.778,
+  "median_hidden_secs": 0.109,
+  "turns": [
+    {
+      "role": "assistant",
+      "at": 7.9,
+      "text": "Hello"
+    },
+    {
+      "role": "user",
+      "at": 8.1,
+      "text": "Fine.",
+      "end_of_turn_delay": 0.313,
+      "transcription_delay": 0.144
+    },
+    {
+      "role": "assistant",
+      "at": 13.0,
+      "text": "Okay andi, Skyline Mobiles ku swagatham! Mee ki",
+      "llm_node_ttft": 0.591,
+      "tts_node_ttfb": 0.106,
+      "e2e_latency": 1.025,
+      "hidden_by_early_start": 0.0
+    },
+    {
+      "role": "user",
+      "at": 13.3,
+      "text": "ఆ."
+    },
+    {
+      "role": "assistant",
+      "at": 19.8,
+      "text": "Sure andi, manam Telugu lo matladukovachu. Meeku ఏ phone gurinchi telusukovali?",
+      "llm_node_ttft": 0.476,
+      "tts_node_ttfb": 0.102
+    },
+    {
+      "role": "user",
+      "at": 23.8,
+      "text": "అవును.",
+      "end_of_turn_delay": 0.301,
+      "transcription_delay": 0.0
+    },
+    {
+      "role": "assistant",
+      "at": 25.3,
+      "text": "Sure andi, meeku ఏ phone",
+      "llm_node_ttft": 0.454,
+      "tts_node_ttfb": 0.104,
+      "e2e_latency": 0.454,
+      "hidden_by_early_start": 0.405
+    },
+    {
+      "role": "user",
+      "at": 26.7,
+      "text": "ఆయి. అవును.",
+      "end_of_turn_delay": 0.308,
+      "transcription_delay": 0.195
+    },
+    {
+      "role": "assistant",
+      "at": 27.7,
+      "text": "Okay andi,",
+      "llm_node_ttft": 0.475,
+      "tts_node_ttfb": 0.104,
+      "e2e_latency": 0.778,
+      "hidden_by_early_start": 0.109
+    }
+  ]
+}
